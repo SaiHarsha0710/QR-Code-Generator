@@ -7,10 +7,10 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #1c2028;
   
-  background-image: url('https://miro.medium.com/v2/resize:fit:1000/0*Anu9J_EsIETILqsD.jpg');
+ /* background-image: url('https://miro.medium.com/v2/resize:fit:1000/0*Anu9J_EsIETILqsD.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: center;*/
   
   display: flex;
   justify-content: center;
