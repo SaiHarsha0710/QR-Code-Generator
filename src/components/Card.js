@@ -14,6 +14,7 @@ const Card = () => {
             const res = await fetch(`https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${input}`);
             const qrImageUrl = res.url; 
             setQr(qrImageUrl);
+            console.log("generated");
         } catch (error) {
             console.error(error);
         } finally {
