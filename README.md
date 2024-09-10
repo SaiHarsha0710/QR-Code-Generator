@@ -1,4 +1,4 @@
-# QR Code GeneratorWebsite
+# QR Code Generator Website
 
 ##Project Overview
 
