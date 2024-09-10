@@ -26,7 +26,7 @@ The QR Code Generator is a web application built using React and Express that al
 
 ## Live Demo
 
-🚀 Check out the live project: [Shortener](#)
+🚀 Check out the live project: [QR Code Generator](https://qr-code-generator-harsha.vercel.app/)
 
 ## Setup Instructions
 
